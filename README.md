@@ -53,4 +53,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gitvibav/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gitvibav/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
