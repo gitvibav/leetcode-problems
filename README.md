@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/gitvibav/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/gitvibav/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/gitvibav/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/gitvibav/leetcode-problems/tree/master/0228-summary-ranges) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/gitvibav/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/gitvibav/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/gitvibav/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gitvibav/leetcode-problems/tree/master/0242-valid-anagram) |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gitvibav/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/gitvibav/leetcode-problems/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
