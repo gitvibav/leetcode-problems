@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/gitvibav/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/gitvibav/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/gitvibav/leetcode-problems/tree/master/0075-sort-colors) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/gitvibav/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/gitvibav/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/gitvibav/leetcode-problems/tree/master/0228-summary-ranges) |
@@ -133,4 +134,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
