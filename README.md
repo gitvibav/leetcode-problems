@@ -15,6 +15,7 @@
 | [0228-summary-ranges](https://github.com/gitvibav/leetcode-problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/gitvibav/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/gitvibav/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/gitvibav/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitvibav/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
@@ -30,6 +31,7 @@
 | [0242-valid-anagram](https://github.com/gitvibav/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/gitvibav/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/gitvibav/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/gitvibav/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitvibav/leetcode-problems/tree/master/0706-design-hashmap) |
 ## Sorting
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gitvibav/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/gitvibav/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
