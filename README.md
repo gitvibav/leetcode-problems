@@ -16,6 +16,7 @@
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/gitvibav/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitvibav/leetcode-problems/tree/master/0706-design-hashmap) |
+| [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/gitvibav/leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@
 | [0217-contains-duplicate](https://github.com/gitvibav/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gitvibav/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -50,14 +52,17 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -116,4 +121,16 @@
 | ------- |
 | [0705-design-hashset](https://github.com/gitvibav/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitvibav/leetcode-problems/tree/master/0706-design-hashmap) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
