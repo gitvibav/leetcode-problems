@@ -15,6 +15,7 @@
 | [0228-summary-ranges](https://github.com/gitvibav/leetcode-problems/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/gitvibav/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/gitvibav/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/gitvibav/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/gitvibav/leetcode-problems/tree/master/0705-design-hashset) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gitvibav/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/gitvibav/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/gitvibav/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gitvibav/leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0304-range-sum-query-2d-immutable](https://github.com/gitvibav/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 ## Union Find
 |  |
 | ------- |
@@ -122,6 +125,7 @@
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/gitvibav/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/gitvibav/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitvibav/leetcode-problems/tree/master/0706-design-hashmap) |
 ## Hash Function
