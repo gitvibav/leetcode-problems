@@ -54,6 +54,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gitvibav/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/gitvibav/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/gitvibav/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/gitvibav/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/gitvibav/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/gitvibav/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -119,6 +120,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/gitvibav/leetcode-problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/gitvibav/leetcode-problems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/gitvibav/leetcode-problems/tree/master/0125-valid-palindrome) |
 ## Linked List
 |  |
 | ------- |
