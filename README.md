@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/gitvibav/leetcode-problems/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/gitvibav/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gitvibav/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/gitvibav/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/gitvibav/leetcode-problems/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0229-majority-element-ii) |
@@ -121,6 +122,7 @@
 | [0027-remove-element](https://github.com/gitvibav/leetcode-problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/gitvibav/leetcode-problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/gitvibav/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gitvibav/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Linked List
 |  |
 | ------- |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gitvibav/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
