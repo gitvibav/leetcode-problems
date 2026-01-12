@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/gitvibav/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/gitvibav/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/gitvibav/leetcode-problems/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gitvibav/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gitvibav/leetcode-problems/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/gitvibav/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/gitvibav/leetcode-problems/tree/master/0041-first-missing-positive) |
@@ -129,6 +130,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/gitvibav/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gitvibav/leetcode-problems/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gitvibav/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gitvibav/leetcode-problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/gitvibav/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gitvibav/leetcode-problems/tree/master/0088-merge-sorted-array) |
