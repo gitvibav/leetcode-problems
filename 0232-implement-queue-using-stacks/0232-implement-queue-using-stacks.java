@@ -1,39 +1,45 @@
 class MyQueue {
-    Stack<Integer> st1;
-    Stack<Integer> st2;
+    Stack<Integer> st;
+
     public MyQueue() {
-        st1 = new Stack<>();
-        st2 = new Stack<>();
+        st = new Stack<>();
     }
-    
+
     public void push(int x) {
-        while(!st1.isEmpty()){
-            st2.push(st1.pop());
-        }
-        st1.push(x);
-        while(!st2.isEmpty()){
-            st1.push(st2.pop());
-        }
+        st.push(x);
     }
-    
+
     public int pop() {
-        return st1.pop();
+        if (st.isEmpty()) return -1;
+
+        int top = st.pop();
+
+        // If this was the last element, it's the front
+        if (st.isEmpty()) {
+            return top;
+        }
+
+        int front = pop();     // recursive call
+        st.push(top);          // restore stack
+        return front;
     }
-    
+
     public int peek() {
-        return st1.peek();
+        if (st.isEmpty()) return -1;
+
+        int top = st.pop();
+
+        if (st.isEmpty()) {
+            st.push(top);
+            return top;
+        }
+
+        int front = peek();
+        st.push(top);
+        return front;
     }
-    
+
     public boolean empty() {
-        return st1.isEmpty();
+        return st.isEmpty();
     }
 }
-
-/**
- * Your MyQueue object will be instantiated and called as such:
- * MyQueue obj = new MyQueue();
- * obj.push(x);
- * int param_2 = obj.pop();
- * int param_3 = obj.peek();
- * boolean param_4 = obj.empty();
- */
