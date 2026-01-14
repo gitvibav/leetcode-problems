@@ -134,6 +134,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/gitvibav/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/gitvibav/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/gitvibav/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
@@ -182,6 +183,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/gitvibav/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gitvibav/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/gitvibav/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitvibav/leetcode-problems/tree/master/0706-design-hashmap) |
@@ -226,6 +228,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/gitvibav/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gitvibav/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/gitvibav/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/gitvibav/leetcode-problems/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
