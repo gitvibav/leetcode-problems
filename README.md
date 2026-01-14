@@ -62,6 +62,7 @@
 | [0567-permutation-in-string](https://github.com/gitvibav/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/gitvibav/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitvibav/leetcode-problems/tree/master/0706-design-hashmap) |
+| [0895-maximum-frequency-stack](https://github.com/gitvibav/leetcode-problems/tree/master/0895-maximum-frequency-stack) |
 ## Sorting
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/gitvibav/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/gitvibav/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitvibav/leetcode-problems/tree/master/0706-design-hashmap) |
+| [0895-maximum-frequency-stack](https://github.com/gitvibav/leetcode-problems/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/gitvibav/leetcode-problems/tree/master/0901-online-stock-span) |
 ## Hash Function
 |  |
@@ -246,6 +248,7 @@
 | [0682-baseball-game](https://github.com/gitvibav/leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/gitvibav/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gitvibav/leetcode-problems/tree/master/0739-daily-temperatures) |
+| [0895-maximum-frequency-stack](https://github.com/gitvibav/leetcode-problems/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/gitvibav/leetcode-problems/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -272,4 +275,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/gitvibav/leetcode-problems/tree/master/0901-online-stock-span) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/gitvibav/leetcode-problems/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
