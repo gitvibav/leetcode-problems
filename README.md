@@ -36,6 +36,7 @@
 | [0682-baseball-game](https://github.com/gitvibav/leetcode-problems/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/gitvibav/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitvibav/leetcode-problems/tree/master/0706-design-hashmap) |
+| [0739-daily-temperatures](https://github.com/gitvibav/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/gitvibav/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/gitvibav/leetcode-problems/tree/master/1929-concatenation-of-array) |
@@ -238,10 +239,12 @@
 | [0225-implement-stack-using-queues](https://github.com/gitvibav/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gitvibav/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/gitvibav/leetcode-problems/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/gitvibav/leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gitvibav/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/gitvibav/leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
