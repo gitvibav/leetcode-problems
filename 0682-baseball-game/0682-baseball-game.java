@@ -29,7 +29,6 @@ class Solution {
             }
         }
 
-        System.out.println(st);
         sum = 0;
         while(!st.isEmpty()){
             sum += st.pop();
