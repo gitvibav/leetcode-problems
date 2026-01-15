@@ -15,6 +15,7 @@
 | [0041-first-missing-positive](https://github.com/gitvibav/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/gitvibav/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/gitvibav/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/gitvibav/leetcode-problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gitvibav/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/gitvibav/leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gitvibav/leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gitvibav/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 ## Union Find
 |  |
@@ -239,6 +241,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/gitvibav/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/gitvibav/leetcode-problems/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gitvibav/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/gitvibav/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
