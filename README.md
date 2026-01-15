@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/gitvibav/leetcode-problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gitvibav/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gitvibav/leetcode-problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/gitvibav/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/gitvibav/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/gitvibav/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/gitvibav/leetcode-problems/tree/master/0042-trapping-rain-water) |
@@ -235,6 +236,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/gitvibav/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gitvibav/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0658-find-k-closest-elements) |
