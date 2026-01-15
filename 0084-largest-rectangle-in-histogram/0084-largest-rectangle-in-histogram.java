@@ -19,7 +19,7 @@ class Solution {
             int top[] = st.pop();
             int height = top[1];
             int index = top[0];
-            maxArea = Math.max(maxArea, (heights.length-1 * index) * height);
+            maxArea = Math.max(maxArea, ((heights.length) - index) * height);
         }
 
         return maxArea;
