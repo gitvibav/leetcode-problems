@@ -1,7 +1,7 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=vibav_mahendran&theme=dark)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/vibav_mahendran)](https://leetcode.com/vibav_mahendran)
 
 ## Array
 |  |
