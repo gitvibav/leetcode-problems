@@ -1,7 +1,7 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YOUR_USERNAME&theme=dark)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=vibav_mahendran&theme=dark)
 
 ## Array
 |  |
