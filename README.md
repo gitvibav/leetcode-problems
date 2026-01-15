@@ -239,6 +239,7 @@
 | [0035-search-insert-position](https://github.com/gitvibav/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gitvibav/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/gitvibav/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/gitvibav/leetcode-problems/tree/master/0704-binary-search) |
 ## Stack
@@ -292,4 +293,8 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/gitvibav/leetcode-problems/tree/master/0394-decode-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/gitvibav/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
