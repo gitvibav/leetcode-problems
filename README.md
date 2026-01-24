@@ -111,6 +111,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/gitvibav/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gitvibav/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/gitvibav/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0981-time-based-key-value-store](https://github.com/gitvibav/leetcode-problems/tree/master/0981-time-based-key-value-store) |
 | [1768-merge-strings-alternately](https://github.com/gitvibav/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
@@ -180,6 +181,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/gitvibav/leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/gitvibav/leetcode-problems/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/gitvibav/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/gitvibav/leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
@@ -207,6 +209,7 @@
 | [0567-permutation-in-string](https://github.com/gitvibav/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/gitvibav/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/gitvibav/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/gitvibav/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Linked List
@@ -303,6 +306,7 @@
 | [0682-baseball-game](https://github.com/gitvibav/leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/gitvibav/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gitvibav/leetcode-problems/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/gitvibav/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0895-maximum-frequency-stack](https://github.com/gitvibav/leetcode-problems/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/gitvibav/leetcode-problems/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
