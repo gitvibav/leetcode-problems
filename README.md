@@ -70,6 +70,7 @@
 | [0229-majority-element-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gitvibav/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/gitvibav/leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gitvibav/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/gitvibav/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/gitvibav/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -106,6 +107,7 @@
 | [0168-excel-sheet-column-title](https://github.com/gitvibav/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/gitvibav/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gitvibav/leetcode-problems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/gitvibav/leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gitvibav/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/gitvibav/leetcode-problems/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/gitvibav/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -137,6 +139,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/gitvibav/leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gitvibav/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
