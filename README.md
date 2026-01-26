@@ -79,6 +79,7 @@
 | [0706-design-hashmap](https://github.com/gitvibav/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/gitvibav/leetcode-problems/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/gitvibav/leetcode-problems/tree/master/0981-time-based-key-value-store) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gitvibav/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0844-backspace-string-compare](https://github.com/gitvibav/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0981-time-based-key-value-store](https://github.com/gitvibav/leetcode-problems/tree/master/0981-time-based-key-value-store) |
 | [1768-merge-strings-alternately](https://github.com/gitvibav/leetcode-problems/tree/master/1768-merge-strings-alternately) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gitvibav/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/gitvibav/leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gitvibav/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gitvibav/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Quickselect
 |  |
 | ------- |
