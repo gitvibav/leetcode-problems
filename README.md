@@ -80,6 +80,7 @@
 | [0895-maximum-frequency-stack](https://github.com/gitvibav/leetcode-problems/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/gitvibav/leetcode-problems/tree/master/0981-time-based-key-value-store) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gitvibav/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2351-first-letter-to-appear-twice](https://github.com/gitvibav/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0981-time-based-key-value-store](https://github.com/gitvibav/leetcode-problems/tree/master/0981-time-based-key-value-store) |
 | [1768-merge-strings-alternately](https://github.com/gitvibav/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gitvibav/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2351-first-letter-to-appear-twice](https://github.com/gitvibav/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0383-ransom-note](https://github.com/gitvibav/leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gitvibav/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gitvibav/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2351-first-letter-to-appear-twice](https://github.com/gitvibav/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Quickselect
 |  |
 | ------- |
@@ -361,6 +364,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gitvibav/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/gitvibav/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Tree
 |  |
 | ------- |
