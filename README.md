@@ -52,6 +52,7 @@
 | [0881-boats-to-save-people](https://github.com/gitvibav/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gitvibav/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1929-concatenation-of-array](https://github.com/gitvibav/leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -181,6 +182,7 @@
 | [0036-valid-sudoku](https://github.com/gitvibav/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gitvibav/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -297,6 +299,7 @@
 | [0875-koko-eating-bananas](https://github.com/gitvibav/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/gitvibav/leetcode-problems/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gitvibav/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Stack
 |  |
 | ------- |
