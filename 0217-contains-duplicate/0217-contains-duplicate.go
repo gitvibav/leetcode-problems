@@ -1,16 +1,20 @@
 func containsDuplicate(nums []int) bool {
-    hash := make(map[int]int)
+    freq := make(map[int]int)
 
     for _,v := range nums {
-        hash[v]++;
-    } 
-
-    for k,v := range hash {
-        fmt.Println(k, v)
-        if v >= 2 {
-            return true;
+        if _,ok := freq[v]; !ok {
+            freq[v] = 1
+        } else {
+            freq[v] += 1
         }
     }
 
-    return false;
+    for _,v := range freq {
+        if v > 1 {
+            return true
+        }
+    }
+
+    return false
+
 }
