@@ -52,6 +52,7 @@
 | [0875-koko-eating-bananas](https://github.com/gitvibav/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/gitvibav/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/gitvibav/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gitvibav/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/gitvibav/leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -104,6 +105,7 @@
 | [0658-find-k-closest-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/gitvibav/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/gitvibav/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gitvibav/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/gitvibav/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -148,6 +151,7 @@
 | [0658-find-k-closest-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gitvibav/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/gitvibav/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/gitvibav/leetcode-problems/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -168,6 +172,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/gitvibav/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -184,6 +189,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/gitvibav/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/gitvibav/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/gitvibav/leetcode-problems/tree/master/0189-rotate-array) |
+| [0973-k-closest-points-to-origin](https://github.com/gitvibav/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gitvibav/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Queue
 |  |
@@ -479,4 +485,8 @@
 | [0098-validate-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gitvibav/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/gitvibav/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
