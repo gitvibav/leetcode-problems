@@ -9,8 +9,6 @@ class Solution:
             a = -heapq.heappop(max_heap)
             b = -heapq.heappop(max_heap)
 
-            print(a, b)
-
             if a == b:
                 continue
             else:
