@@ -153,6 +153,7 @@
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/gitvibav/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -333,6 +334,7 @@
 | [0621-task-scheduler](https://github.com/gitvibav/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/gitvibav/leetcode-problems/tree/master/0881-boats-to-save-people) |
+| [1382-balance-a-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -444,6 +446,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gitvibav/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1382-balance-a-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -461,6 +464,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -480,6 +484,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gitvibav/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1382-balance-a-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -509,6 +514,7 @@
 | [0098-validate-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gitvibav/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1382-balance-a-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Geometry
 |  |
 | ------- |
