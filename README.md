@@ -95,6 +95,7 @@
 | [0895-maximum-frequency-stack](https://github.com/gitvibav/leetcode-problems/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/gitvibav/leetcode-problems/tree/master/0981-time-based-key-value-store) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/gitvibav/leetcode-problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gitvibav/leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gitvibav/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/gitvibav/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -185,6 +186,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/gitvibav/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/gitvibav/leetcode-problems/tree/master/0621-task-scheduler) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/gitvibav/leetcode-problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gitvibav/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/gitvibav/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gitvibav/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -212,6 +214,7 @@
 | [0189-rotate-array](https://github.com/gitvibav/leetcode-problems/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/gitvibav/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gitvibav/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/gitvibav/leetcode-problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## Queue
 |  |
 | ------- |
