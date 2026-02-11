@@ -216,6 +216,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/gitvibav/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/gitvibav/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/gitvibav/leetcode-problems/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/gitvibav/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0973-k-closest-points-to-origin](https://github.com/gitvibav/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gitvibav/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/gitvibav/leetcode-problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -360,6 +361,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gitvibav/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/gitvibav/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/gitvibav/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/gitvibav/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0658-find-k-closest-elements) |
