@@ -62,6 +62,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/1408-string-matching-in-an-array) |
+| [1652-defuse-the-bomb](https://github.com/gitvibav/leetcode-problems/tree/master/1652-defuse-the-bomb) |
 | [1929-concatenation-of-array](https://github.com/gitvibav/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gitvibav/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3379-transformed-array](https://github.com/gitvibav/leetcode-problems/tree/master/3379-transformed-array) |
@@ -407,6 +408,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/gitvibav/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gitvibav/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0658-find-k-closest-elements) |
+| [1652-defuse-the-bomb](https://github.com/gitvibav/leetcode-problems/tree/master/1652-defuse-the-bomb) |
 ## Monotonic Queue
 |  |
 | ------- |
