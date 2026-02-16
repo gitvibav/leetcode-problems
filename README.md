@@ -42,6 +42,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/gitvibav/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [0506-relative-ranks](https://github.com/gitvibav/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/gitvibav/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/gitvibav/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0658-find-k-closest-elements) |
@@ -119,6 +120,7 @@
 | [0242-valid-anagram](https://github.com/gitvibav/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/gitvibav/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/gitvibav/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/gitvibav/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/gitvibav/leetcode-problems/tree/master/0881-boats-to-save-people) |
@@ -178,6 +180,7 @@
 | [0295-find-median-from-data-stream](https://github.com/gitvibav/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/gitvibav/leetcode-problems/tree/master/0355-design-twitter) |
+| [0506-relative-ranks](https://github.com/gitvibav/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/gitvibav/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gitvibav/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
