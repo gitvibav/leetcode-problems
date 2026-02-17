@@ -68,6 +68,7 @@
 | [1929-concatenation-of-array](https://github.com/gitvibav/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gitvibav/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/gitvibav/leetcode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3379-transformed-array](https://github.com/gitvibav/leetcode-problems/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gitvibav/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2351-first-letter-to-appear-twice](https://github.com/gitvibav/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/gitvibav/leetcode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -460,6 +462,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gitvibav/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/gitvibav/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/gitvibav/leetcode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Tree
 |  |
 | ------- |
