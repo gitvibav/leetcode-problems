@@ -236,6 +236,7 @@
 | [0441-arranging-coins](https://github.com/gitvibav/leetcode-problems/tree/master/0441-arranging-coins) |
 | [0973-k-closest-points-to-origin](https://github.com/gitvibav/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gitvibav/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gitvibav/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/gitvibav/leetcode-problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## Queue
 |  |
@@ -311,6 +312,7 @@
 | [0355-design-twitter](https://github.com/gitvibav/leetcode-problems/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/gitvibav/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitvibav/leetcode-problems/tree/master/0706-design-hashmap) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gitvibav/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
