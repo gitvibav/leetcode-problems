@@ -486,6 +486,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gitvibav/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/gitvibav/leetcode-problems/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -505,6 +506,7 @@
 | [0404-sum-of-left-leaves](https://github.com/gitvibav/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/gitvibav/leetcode-problems/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -526,6 +528,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gitvibav/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/gitvibav/leetcode-problems/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -557,6 +560,7 @@
 | [0098-validate-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gitvibav/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/gitvibav/leetcode-problems/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Geometry
 |  |
