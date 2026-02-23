@@ -70,6 +70,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gitvibav/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gitvibav/leetcode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3379-transformed-array](https://github.com/gitvibav/leetcode-problems/tree/master/3379-transformed-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitvibav/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2351-first-letter-to-appear-twice](https://github.com/gitvibav/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gitvibav/leetcode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitvibav/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [1046-last-stone-weight](https://github.com/gitvibav/leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitvibav/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -265,6 +268,7 @@
 | [0844-backspace-string-compare](https://github.com/gitvibav/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/gitvibav/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/gitvibav/leetcode-problems/tree/master/3379-transformed-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitvibav/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Trie
 |  |
 | ------- |
@@ -315,6 +319,7 @@
 | [0705-design-hashset](https://github.com/gitvibav/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitvibav/leetcode-problems/tree/master/0706-design-hashmap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gitvibav/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitvibav/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -448,6 +453,7 @@
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/gitvibav/leetcode-problems/tree/master/0895-maximum-frequency-stack) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitvibav/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -554,6 +560,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/gitvibav/leetcode-problems/tree/master/0146-lru-cache) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitvibav/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search Tree
 |  |
 | ------- |
