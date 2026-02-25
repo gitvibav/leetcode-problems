@@ -63,6 +63,7 @@
 | [1046-last-stone-weight](https://github.com/gitvibav/leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/gitvibav/leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gitvibav/leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -135,6 +136,7 @@
 | [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/gitvibav/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/gitvibav/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gitvibav/leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## String
@@ -213,6 +215,7 @@
 | [0383-ransom-note](https://github.com/gitvibav/leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gitvibav/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/gitvibav/leetcode-problems/tree/master/0621-task-scheduler) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gitvibav/leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/gitvibav/leetcode-problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gitvibav/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -481,6 +484,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/gitvibav/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/gitvibav/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gitvibav/leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/gitvibav/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gitvibav/leetcode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Tree
