@@ -39,6 +39,7 @@
 | [0229-majority-element-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/gitvibav/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/gitvibav/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/gitvibav/leetcode-problems/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/gitvibav/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gitvibav/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -128,6 +129,7 @@
 | [0217-contains-duplicate](https://github.com/gitvibav/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gitvibav/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/gitvibav/leetcode-problems/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/gitvibav/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0475-heaters](https://github.com/gitvibav/leetcode-problems/tree/master/0475-heaters) |
@@ -369,6 +371,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/gitvibav/leetcode-problems/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
