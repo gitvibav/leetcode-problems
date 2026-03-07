@@ -43,6 +43,7 @@
 | [0287-find-the-duplicate-number](https://github.com/gitvibav/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gitvibav/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0457-circular-array-loop](https://github.com/gitvibav/leetcode-problems/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/gitvibav/leetcode-problems/tree/master/0475-heaters) |
@@ -132,6 +133,7 @@
 | [0274-h-index](https://github.com/gitvibav/leetcode-problems/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/gitvibav/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/gitvibav/leetcode-problems/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/gitvibav/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/gitvibav/leetcode-problems/tree/master/0621-task-scheduler) |
@@ -197,6 +199,7 @@
 | [0295-find-median-from-data-stream](https://github.com/gitvibav/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/gitvibav/leetcode-problems/tree/master/0355-design-twitter) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/gitvibav/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/gitvibav/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0658-find-k-closest-elements) |
@@ -268,6 +271,7 @@
 | [0036-valid-sudoku](https://github.com/gitvibav/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gitvibav/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Union Find
 |  |
@@ -408,6 +412,7 @@
 | [0287-find-the-duplicate-number](https://github.com/gitvibav/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/gitvibav/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/gitvibav/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/gitvibav/leetcode-problems/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/gitvibav/leetcode-problems/tree/master/0475-heaters) |
