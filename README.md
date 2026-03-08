@@ -39,6 +39,7 @@
 | [0229-majority-element-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/gitvibav/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/gitvibav/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/gitvibav/leetcode-problems/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/gitvibav/leetcode-problems/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/gitvibav/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gitvibav/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
@@ -499,6 +500,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/gitvibav/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
+| [0260-single-number-iii](https://github.com/gitvibav/leetcode-problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/gitvibav/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gitvibav/leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/gitvibav/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
