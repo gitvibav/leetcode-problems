@@ -49,6 +49,7 @@
 | [0457-circular-array-loop](https://github.com/gitvibav/leetcode-problems/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/gitvibav/leetcode-problems/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/gitvibav/leetcode-problems/tree/master/0506-relative-ranks) |
+| [0528-random-pick-with-weight](https://github.com/gitvibav/leetcode-problems/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/gitvibav/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/gitvibav/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0658-find-k-closest-elements) |
@@ -244,6 +245,7 @@
 | [0238-product-of-array-except-self](https://github.com/gitvibav/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gitvibav/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/gitvibav/leetcode-problems/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/gitvibav/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -256,6 +258,7 @@
 | [0189-rotate-array](https://github.com/gitvibav/leetcode-problems/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/gitvibav/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/gitvibav/leetcode-problems/tree/master/0441-arranging-coins) |
+| [0528-random-pick-with-weight](https://github.com/gitvibav/leetcode-problems/tree/master/0528-random-pick-with-weight) |
 | [0973-k-closest-points-to-origin](https://github.com/gitvibav/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gitvibav/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gitvibav/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -418,6 +421,7 @@
 | [0410-split-array-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/gitvibav/leetcode-problems/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/gitvibav/leetcode-problems/tree/master/0475-heaters) |
+| [0528-random-pick-with-weight](https://github.com/gitvibav/leetcode-problems/tree/master/0528-random-pick-with-weight) |
 | [0658-find-k-closest-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/gitvibav/leetcode-problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/gitvibav/leetcode-problems/tree/master/0875-koko-eating-bananas) |
@@ -614,4 +618,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/gitvibav/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/gitvibav/leetcode-problems/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
