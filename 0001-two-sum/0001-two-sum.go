@@ -1,13 +1,13 @@
 func twoSum(nums []int, target int) []int {
-    idx := make(map[int]int)
+    freq := make(map[int]int)
 
     for k,v := range nums {
-        if _, ok := idx[target - v]; !ok {
-            idx[v] = k
+        if _, ok := freq[target - v]; ok {
+            return []int{freq[target - v], k}
         } else {
-            return []int{k, idx[target-v]}
+            freq[v] = k
         }
     }
 
-    return []int{0,0};
+    return []int{0,0}
 }
