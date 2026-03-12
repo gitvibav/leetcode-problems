@@ -19,6 +19,7 @@
 | [0049-group-anagrams](https://github.com/gitvibav/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/gitvibav/leetcode-problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/gitvibav/leetcode-problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gitvibav/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/gitvibav/leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -511,6 +512,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gitvibav/leetcode-problems/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/gitvibav/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/gitvibav/leetcode-problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/gitvibav/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
@@ -628,4 +630,8 @@
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/gitvibav/leetcode-problems/tree/master/0528-random-pick-with-weight) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gitvibav/leetcode-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
