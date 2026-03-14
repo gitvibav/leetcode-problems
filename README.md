@@ -65,6 +65,7 @@
 | [0875-koko-eating-bananas](https://github.com/gitvibav/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/gitvibav/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
+| [0946-validate-stack-sequences](https://github.com/gitvibav/leetcode-problems/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/gitvibav/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/gitvibav/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gitvibav/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -298,6 +299,7 @@
 | [0682-baseball-game](https://github.com/gitvibav/leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/gitvibav/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/gitvibav/leetcode-problems/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/gitvibav/leetcode-problems/tree/master/0946-validate-stack-sequences) |
 | [1929-concatenation-of-array](https://github.com/gitvibav/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/gitvibav/leetcode-problems/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitvibav/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -465,6 +467,7 @@
 | [0844-backspace-string-compare](https://github.com/gitvibav/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0895-maximum-frequency-stack](https://github.com/gitvibav/leetcode-problems/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/gitvibav/leetcode-problems/tree/master/0901-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/gitvibav/leetcode-problems/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gitvibav/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
