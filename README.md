@@ -167,6 +167,7 @@
 | [0012-integer-to-roman](https://github.com/gitvibav/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/gitvibav/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/gitvibav/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gitvibav/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/gitvibav/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/gitvibav/leetcode-problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/gitvibav/leetcode-problems/tree/master/0076-minimum-window-substring) |
@@ -408,6 +409,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gitvibav/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gitvibav/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitvibav/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -652,6 +654,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gitvibav/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gitvibav/leetcode-problems/tree/master/0046-permutations) |
