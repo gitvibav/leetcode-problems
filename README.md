@@ -90,6 +90,7 @@
 | [1408-string-matching-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/gitvibav/leetcode-problems/tree/master/1652-defuse-the-bomb) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/gitvibav/leetcode-problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/gitvibav/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gitvibav/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -450,6 +451,7 @@
 | [0846-hand-of-straights](https://github.com/gitvibav/leetcode-problems/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/gitvibav/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/gitvibav/leetcode-problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Binary Search
 |  |
 | ------- |
