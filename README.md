@@ -201,6 +201,7 @@
 | [0541-reverse-string-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/gitvibav/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/gitvibav/leetcode-problems/tree/master/0609-find-duplicate-file-in-system) |
+| [0678-valid-parenthesis-string](https://github.com/gitvibav/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/gitvibav/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/gitvibav/leetcode-problems/tree/master/0763-partition-labels) |
@@ -439,6 +440,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/gitvibav/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/gitvibav/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
@@ -450,6 +452,7 @@
 | [0316-remove-duplicate-letters](https://github.com/gitvibav/leetcode-problems/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/gitvibav/leetcode-problems/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/gitvibav/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/gitvibav/leetcode-problems/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/gitvibav/leetcode-problems/tree/master/0846-hand-of-straights) |
@@ -499,6 +502,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/gitvibav/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/gitvibav/leetcode-problems/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/gitvibav/leetcode-problems/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/gitvibav/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/gitvibav/leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/gitvibav/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gitvibav/leetcode-problems/tree/master/0739-daily-temperatures) |
