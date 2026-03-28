@@ -131,6 +131,7 @@
 | [0692-top-k-frequent-words](https://github.com/gitvibav/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/gitvibav/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitvibav/leetcode-problems/tree/master/0706-design-hashmap) |
+| [0763-partition-labels](https://github.com/gitvibav/leetcode-problems/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/gitvibav/leetcode-problems/tree/master/0846-hand-of-straights) |
 | [0895-maximum-frequency-stack](https://github.com/gitvibav/leetcode-problems/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/gitvibav/leetcode-problems/tree/master/0981-time-based-key-value-store) |
@@ -202,6 +203,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/gitvibav/leetcode-problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0680-valid-palindrome-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/gitvibav/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/gitvibav/leetcode-problems/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/gitvibav/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0981-time-based-key-value-store](https://github.com/gitvibav/leetcode-problems/tree/master/0981-time-based-key-value-store) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gitvibav/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -360,6 +362,7 @@
 | [0567-permutation-in-string](https://github.com/gitvibav/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/gitvibav/leetcode-problems/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/gitvibav/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/gitvibav/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/gitvibav/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -448,6 +451,7 @@
 | [0410-split-array-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/gitvibav/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/gitvibav/leetcode-problems/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/gitvibav/leetcode-problems/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/gitvibav/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/gitvibav/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
