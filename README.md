@@ -60,6 +60,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/gitvibav/leetcode-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/gitvibav/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0457-circular-array-loop](https://github.com/gitvibav/leetcode-problems/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/gitvibav/leetcode-problems/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/gitvibav/leetcode-problems/tree/master/0506-relative-ranks) |
@@ -162,6 +163,7 @@
 | [0295-find-median-from-data-stream](https://github.com/gitvibav/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/gitvibav/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0475-heaters](https://github.com/gitvibav/leetcode-problems/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/gitvibav/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/gitvibav/leetcode-problems/tree/master/0621-task-scheduler) |
@@ -443,6 +445,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/gitvibav/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/gitvibav/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/gitvibav/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
@@ -454,6 +457,7 @@
 | [0134-gas-station](https://github.com/gitvibav/leetcode-problems/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/gitvibav/leetcode-problems/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/gitvibav/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/gitvibav/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/gitvibav/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
