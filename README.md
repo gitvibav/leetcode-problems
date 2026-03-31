@@ -93,6 +93,7 @@
 | [1408-string-matching-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/gitvibav/leetcode-problems/tree/master/1652-defuse-the-bomb) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/gitvibav/leetcode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/gitvibav/leetcode-problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/gitvibav/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -176,6 +177,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/gitvibav/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gitvibav/leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/gitvibav/leetcode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## String
 |  |
@@ -251,6 +253,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/gitvibav/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/gitvibav/leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/gitvibav/leetcode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitvibav/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
@@ -492,6 +495,7 @@
 | [0981-time-based-key-value-store](https://github.com/gitvibav/leetcode-problems/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gitvibav/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gitvibav/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/gitvibav/leetcode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gitvibav/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
@@ -705,4 +709,8 @@
 | [0079-word-search](https://github.com/gitvibav/leetcode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/gitvibav/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/gitvibav/leetcode-problems/tree/master/0131-palindrome-partitioning) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/gitvibav/leetcode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
