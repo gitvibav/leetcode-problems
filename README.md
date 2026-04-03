@@ -713,4 +713,8 @@
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/gitvibav/leetcode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gitvibav/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
