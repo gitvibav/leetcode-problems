@@ -79,6 +79,7 @@
 | [0846-hand-of-straights](https://github.com/gitvibav/leetcode-problems/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/gitvibav/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/gitvibav/leetcode-problems/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/gitvibav/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/gitvibav/leetcode-problems/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/gitvibav/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
@@ -138,6 +139,7 @@
 | [0763-partition-labels](https://github.com/gitvibav/leetcode-problems/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/gitvibav/leetcode-problems/tree/master/0846-hand-of-straights) |
 | [0895-maximum-frequency-stack](https://github.com/gitvibav/leetcode-problems/tree/master/0895-maximum-frequency-stack) |
+| [0904-fruit-into-baskets](https://github.com/gitvibav/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/gitvibav/leetcode-problems/tree/master/0981-time-based-key-value-store) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/gitvibav/leetcode-problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -542,6 +544,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/gitvibav/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gitvibav/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/gitvibav/leetcode-problems/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/gitvibav/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/gitvibav/leetcode-problems/tree/master/1052-grumpy-bookstore-owner) |
 | [1652-defuse-the-bomb](https://github.com/gitvibav/leetcode-problems/tree/master/1652-defuse-the-bomb) |
 ## Monotonic Queue
