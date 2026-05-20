@@ -102,6 +102,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gitvibav/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/gitvibav/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gitvibav/leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gitvibav/leetcode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3379-transformed-array](https://github.com/gitvibav/leetcode-problems/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitvibav/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -151,6 +152,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitvibav/leetcode-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2351-first-letter-to-appear-twice](https://github.com/gitvibav/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/gitvibav/leetcode-problems/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gitvibav/leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gitvibav/leetcode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitvibav/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sorting
@@ -596,6 +598,7 @@
 | [0287-find-the-duplicate-number](https://github.com/gitvibav/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gitvibav/leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/gitvibav/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gitvibav/leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gitvibav/leetcode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Tree
 |  |
