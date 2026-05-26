@@ -2,16 +2,16 @@ class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         hm = {}
 
-        for str1 in strs:
-            sorted_str1 = str(sorted(str1))
-            if sorted_str1 in hm:
-                hm[sorted_str1].append(str1)
+        for s in strs:
+            sorted_s = "".join(sorted(s))
+
+            if sorted_s in hm:
+                hm[sorted_s].append(s)
             else:
-                hm[sorted_str1] = [str1]
+                hm[sorted_s] = [s]
 
-        res = []
-
+        ans = []
         for k,v in hm.items():
-            res.append(v)
-        
-        return res
+            ans.append(v)
+
+        return ans
