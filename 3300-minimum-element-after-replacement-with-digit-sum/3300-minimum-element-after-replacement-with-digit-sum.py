@@ -1,7 +1,7 @@
 class Solution:
     def minElement(self, nums: List[int]) -> int:
 
-        ans = []
+        ans = 999999999
 
         for num in nums:
             temp = str(num)
@@ -9,9 +9,9 @@ class Solution:
             for t in temp:
                 sum1 += int(t)
 
-            ans.append(sum1)
+            ans = min(ans, sum1)
 
-        return min(ans)
+        return ans
 
 
         
