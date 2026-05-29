@@ -104,6 +104,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/gitvibav/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gitvibav/leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gitvibav/leetcode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gitvibav/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/gitvibav/leetcode-problems/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitvibav/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
@@ -317,6 +318,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gitvibav/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gitvibav/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/gitvibav/leetcode-problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gitvibav/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Queue
 |  |
 | ------- |
