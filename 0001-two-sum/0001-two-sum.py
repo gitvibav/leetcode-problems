@@ -3,9 +3,11 @@ class Solution:
         hm = {}
 
         for i in range(len(nums)):
-            if target - nums[i] in hm.keys():
-                return [i, hm[target-nums[i]]]
+
+            if target - nums[i] in hm:
+                return [i, hm[target - nums[i]]]
 
             hm[nums[i]] = i
+
+        return []
         
-        return [0,0]
